@@ -1,5 +1,4 @@
-### Hi there 👋
-Perkenalkan nama saya adam arrahman
+### Hi there 👋, I`M Adam Arrahman
 
 <p align="left">
 <a href="https://github.com/Dams168">
