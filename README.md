@@ -1,4 +1,4 @@
-### Hi there 👋, I`M Adam Arrahman
+### Hi there 👋, I`m Adam Arrahman
 
 <p align="left">
 <a href="https://github.com/Dams168">
