@@ -13,7 +13,7 @@
 - 📄 You can reach me: adamrohman2003@gmail.com
 
 ### Connect With Me :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adamarahman16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-arrahman)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&target=_blank)](https://instagram.com/adamarahman16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&target=_blank)](https://linkedin.com/in/adam-arrahman)
 
  
 
