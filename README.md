@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://discord.com/users/933959242262659073" target="_blank" rel="nofollow">
-   <img  src="https://lanyard-profile-readme.vercel.app/api/933959242262659073?borderRadius=15px&idleMessage=I'm%20not%20currently%20doing%20anything!" alt="Discord Presence" align="right" height="200em">
+   <img  src="https://lanyard-profile-readme.vercel.app/api/933959242262659073?borderRadius=15px&bg=0b0100&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right" height="200em">
 </a>
 <h3>About Me :</h3>
 
