@@ -31,7 +31,7 @@
 <div align="left">
   <!--START_SECTION:waka-->
 
-```javascript
+```rust
 No activity tracked
 ```
 
