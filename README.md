@@ -31,5 +31,9 @@
 <div align="left">
   <!--START_SECTION:waka-->
 
-  <!--END_SECTION:waka-->
+```javascript
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </div>
