@@ -16,4 +16,4 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
           LANG_COUNT: 5
-          CODE_LANG: javascript
+          CODE_LANG: rust
