@@ -15,10 +15,10 @@
 
 ### Connect With Me :
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&target=_blank)](https://instagram.com/adamarahman16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&target=_blank)](https://linkedin.com/in/adam-arrahman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&target=_blank)](https://linkedin.com/in/adam-arrahman)
 <!--
 ### My Github Stats :
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&target=_blank)](https://instagram.com/adamarahman16)
 <p align="left">
   <a href="https://github.com/Dams168">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dams168&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Adam's GitHub Stats"/>
