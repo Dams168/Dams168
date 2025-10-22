@@ -9,7 +9,7 @@
 </a>
 <h3>About Me :</h3>
 
-- 👨‍💻 I'm **Informatic Engineering Student and Web Developer**
+- 👨‍💻 I'm **Informatic Engineering Student and Back-End Developer**
 - 🌱 I’m currently learning **Javascript**
 - 📄 You can reach me: adamrohman2003@gmail.com
 
