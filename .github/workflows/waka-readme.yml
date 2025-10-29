@@ -15,5 +15,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
-          LANG_COUNT: 5
+          LANG_COUNT: 7
           CODE_LANG: rust
