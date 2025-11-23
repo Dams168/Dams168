@@ -10,7 +10,7 @@
 <h3>About Me :</h3>
 
 - 👨‍💻 I'm **Informatic Engineering Student and Back-End Developer**
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and Go**
 - 📄 You can reach me: adamrohman2003@gmail.com
 
 ### Connect With Me :
