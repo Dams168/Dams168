@@ -11,7 +11,8 @@
 <h3>About Me :</h3>
 
 - 👨‍💻 I'm **Informatic Engineering Student and Back-End Developer**
-- 🌱 I’m currently learning **NestJS and Go**
+- 🌱 I currently learning **NestJS and Go**
+- ✍️ I currently use **JavaScript** for Backend Development
 - 📄 You can reach me: adamrohman2003@gmail.com
 
 ### Connect With Me :
