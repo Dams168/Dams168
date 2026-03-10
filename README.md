@@ -5,15 +5,20 @@
   <a href="https://wakatime.com/@3bf786ed-27c2-4fd2-bde2-abf3a17761c4"><img src="https://wakatime.com/badge/user/3bf786ed-27c2-4fd2-bde2-abf3a17761c4.svg" alt="Total time coded since Apr 14 2025" /></a>
 </p>
 
+<h3>About Me :</h3>
 <a href="https://discord.com/users/933959242262659073" target="_blank" rel="nofollow">
    <img  src="https://lanyard-profile-readme.vercel.app/api/933959242262659073?borderRadius=15px&bg=0b0100&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right" height="200em">
 </a>
-<h3>About Me :</h3>
 
-- 👨‍💻 I'm **Informatic Engineering Student and Back-End Developer**
-- 🌱 I currently learning **NestJS and Go**
-- ✍️ I currently use **JavaScript** for Backend Development
-- 📄 You can reach me: adamrohman2003@gmail.com
+```go
+export const Adam = {
+  role: "Backend Developer",
+  focus: ["Node.js", "API Development", "Database Design"],
+  techStack: ["JavaScript", "Express.js", "PostgreSQL"],
+  currentlyLearning: ["Go", "Docker", "NestJS"],
+  location: "Indonesia"
+};
+```
 
 ### Connect With Me :
 
